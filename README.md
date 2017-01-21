@@ -1,5 +1,6 @@
 # Hey there!
-#### I am Nitish S Mutha from India, pursuing MSc in Machine Learning at University Coellge London (UCL), United Kingdom and currently living in London.  
+
+#### I am Nitish S Mutha from India, pursuing MSc in Machine Learning at University College London (UCL), United Kingdom and currently living in London.  
 
 #### I am a "Deep Learning" learner and in process of building few intelligent project.
 
