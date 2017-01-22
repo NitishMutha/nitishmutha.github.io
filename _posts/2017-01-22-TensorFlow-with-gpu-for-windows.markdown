@@ -64,22 +64,22 @@ We will install Anaconda as it helps us to easily manage separate environments f
 Create new environment, with the name tensorflow-gpu and python version 3.5.2  
 `conda create -n tensorflow-gpu python=3.5.2`  
 
-<a href="/assets/posts/post001/conda1.jpg" data-lightbox="falcon9-large" data-title="conda">
-  <img src="/assets/posts/post001/conda1.jpg" title="conda">
+<a href="/assets/posts/post001/conda1.JPG" data-lightbox="falcon9-large" data-title="conda">
+  <img src="/assets/posts/post001/conda1.JPG" title="conda">
 </a>
 
 **Activate the environment**
 `activate tensorflow-gpu`  
 
-<a href="/assets/posts/post001/conda2.jpg" data-lightbox="falcon9-large" data-title="conda">
-  <img src="/assets/posts/post001/conda2.jpg" title="conda">
+<a href="/assets/posts/post001/conda2.JPG" data-lightbox="falcon9-large" data-title="conda">
+  <img src="/assets/posts/post001/conda2.JPG" title="conda">
 </a>
 
 **Install tensorFlow**  
 `pip install tensorflow-gpu`  
 
-<a href="/assets/posts/post001/conda3.jpg" data-lightbox="falcon9-large" data-title="conda">
-  <img src="/assets/posts/post001/conda3.jpg" title="conda">
+<a href="/assets/posts/post001/conda3.JPG" data-lightbox="falcon9-large" data-title="conda">
+  <img src="/assets/posts/post001/conda3.JPG" title="conda">
 </a>
 
 Done. You have successfully installed TensorFlow with GPU on your Windows machine.  
@@ -98,8 +98,8 @@ Enter into python shell
 Now run this command and check if it identifies your GPU.  
 `sess = tf.Session(config=tf.ConfigProto(log_device_placement=True))`  
 
-<a href="/assets/posts/post001/tf.jpg" data-lightbox="falcon9-large" data-title="tf">
-  <img src="/assets/posts/post001/tf.jpg" title="tf">
+<a href="/assets/posts/post001/tf.JPG" data-lightbox="falcon9-large" data-title="tf">
+  <img src="/assets/posts/post001/tf.JPG" title="tf">
 </a>
 
 That's all. Time to play with it.
