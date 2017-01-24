@@ -4,16 +4,16 @@ title:  "Install TensorFlow with GPU for Windows 10"
 date:   2017-01-22 01:25:00
 author: Nitish S. Mutha
 categories: TensorFlow
-tags:	tensorFlow windows deeplearning machinelearning google python gpu cpu
+tags:	tensorFlow windows deepLearning machineLearning google python gpu cpu
 cover:  "/assets/post001/neural-header.png"
 ---
 
 On November 9, 2015 Google open sourced a software library called TensorFlow. TensorFlow is a software library used for Machine learning and Deep learning for numerical computation using data flow graphs. It can run on multiple CPUs and GPUs.  
 Since deep learning algorithms runs on huge data sets, it is extremely beneficial to run these algorithms on CUDA enabled Nvidia GPUs to achieve faster execution.  
 
-When I wanted to install TensorFlow GPU version on my machine, I browsed through internet and [tensorflow.org](www.tensorflow.org) for steps to download and setup. I could not find any good and clear source for setting up TensorFLow on local machine with GPU support for Windows. Most of the information available online was for Linux or Mac OS. Most search results online said there is no support for TensorFlow with GPU on Windows yet and few suggested to use virtual machines on Windows but again the would not utilize GPU.  
+When I wanted to install TensorFlow GPU version on my machine, I browsed through internet and [tensorflow.org](https://www.tensorflow.org) for steps to download and setup. I could not find any good and clear source for setting up TensorFLow on local machine with GPU support for Windows. Most of the information available online was for Linux or Mac OS. Most search results online said there is no support for TensorFlow with GPU on Windows yet and few suggested to use virtual machines on Windows but again the would not utilize GPU.  
 
-Then I decided to explore myself and see if that is still the case or has Google recently released support for TensorFlow with GPU on Windows. After refering few pages on [tensorflow.org](www.tensorflow.org) I was able to setup TensorFlow GPU version on my Windows machine with ease. So now it is possible to have TensorFlow running on Windows with GPU support.  
+Then I decided to explore myself and see if that is still the case or has Google recently released support for TensorFlow with GPU on Windows. After refering few pages on [tensorflow.org](https://www.tensorflow.org) I was able to setup TensorFlow GPU version on my Windows machine with ease. So now it is possible to have TensorFlow running on Windows with GPU support.  
 
 
 ## Requirements  
