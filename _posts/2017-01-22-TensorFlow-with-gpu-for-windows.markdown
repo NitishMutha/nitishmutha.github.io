@@ -6,6 +6,7 @@ author: Nitish S. Mutha
 categories: TensorFlow
 tags:	tensorFlow windows deepLearning machineLearning google python gpu cpu
 cover:  "/assets/post001/neural-header.png"
+comments: true
 ---
 
 On November 9, 2015 Google open sourced a software library called TensorFlow. TensorFlow is a software library used for Machine learning and Deep learning for numerical computation using data flow graphs. It can run on multiple CPUs and GPUs.  
@@ -102,4 +103,29 @@ Now run this command and check if it identifies your GPU.
   <img src="/assets/posts/post001/tf.JPG" title="tf">
 </a>
 
-That's all. Time to play with it.
+That's all. Time to play with it.  
+
+
+{% if page.comments %}
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+
+var disqus_config = function () {
+this.page.url = "{{site.url}}{{page.url}}";  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = "{{page.id}}"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://nitishmuthagithub.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                                           
+{% endif %}
