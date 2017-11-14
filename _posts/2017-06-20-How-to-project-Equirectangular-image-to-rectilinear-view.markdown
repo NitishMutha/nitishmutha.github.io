@@ -62,20 +62,20 @@ Let us consider the point S in the Figure above to have the central latitude and
 longitude of (lambda_0;phi_1) = (0; 0) which is on the equator and also the center of the plane.  
 
 The transformation equations of the plane coordinates are given by,  
- <a href="/assets/posts/post002/eq1.jpg" data-lightbox="falcon9-large" data-title="equation">
-  <img src="/assets/posts/post002/eq1.jpg" title="equation">
+ <a href="/assets/posts/post002/eq1.JPG" data-lightbox="falcon9-large" data-title="equation">
+  <img src="/assets/posts/post002/eq1.JPG" title="equation">
 </a>  
 
 
 where c is angular distance of point (x;y) from the center of the projection given as,  
-<a href="/assets/posts/post002/eq2.jpg" data-lightbox="falcon9-large" data-title="equation">
-  <img src="/assets/posts/post002/eq2.jpg" title="equation">
+<a href="/assets/posts/post002/eq2.JPG" data-lightbox="falcon9-large" data-title="equation">
+  <img src="/assets/posts/post002/eq2.JPG" title="equation">
 </a>  
 
 
 While the inverse equations to map the point (x;y) in plane to the sphere are,  
-<a href="/assets/posts/post002/eq3.jpg" data-lightbox="falcon9-large" data-title="equation">
-  <img src="/assets/posts/post002/eq3.jpg" title="equation">
+<a href="/assets/posts/post002/eq3.JPG" data-lightbox="falcon9-large" data-title="equation">
+  <img src="/assets/posts/post002/eq3.JPG" title="equation">
 </a>  
 
 
