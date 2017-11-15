@@ -5,7 +5,7 @@ date:   2017-01-22 01:25:00
 author: Nitish S. Mutha
 categories: TensorFlow
 tags:	tensorFlow windows deepLearning machineLearning google python gpu cpu
-cover:  "/assets/post001/neural-header.png"
+cover:  "/assets/posts/bgs/bg16.png"
 comments: true
 ---
 

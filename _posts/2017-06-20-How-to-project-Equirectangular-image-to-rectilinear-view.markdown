@@ -3,9 +3,9 @@ layout: post
 title:  "How to map Equirectangular projection to Rectilinear projection"
 date:   2017-06-12 03:05:00
 author: Nitish S. Mutha
-categories: Equirectangular 360degree videos gnomonic
+categories: Equirectangular 360degree
 tags:	360degreevideos equirectangular gnomonic
-cover:  "/assets/post001/neural-header.png"
+cover:  "/assets/posts/bgs/bg13.jpg"
 comments: true
 ---
 
@@ -54,7 +54,14 @@ the definition and mathematics of Gnomonic projection states the same.
 <a href="/assets/posts/post002/gnomo.png" data-lightbox="falcon9-large" data-title="gnomonic image trick">
   <img src="/assets/posts/post002/gnomo.png" title="gnomonic image trick">
 </a>  
+  
+<br/>
 
+#### Graphical illustration of the mapping equirectangular/spherical image on to rectilinear image:
+
+<a href="/assets/posts/post002/equirectangular4.png" data-lightbox="falcon9-large" data-title="Equirectangular to rectilinear">
+  <img src="/assets/posts/post002/equirectangular4.png" title="Equirectangular to rectilinear">
+</a>  
 
 ## Mathematics for plane transformation equations  
 
