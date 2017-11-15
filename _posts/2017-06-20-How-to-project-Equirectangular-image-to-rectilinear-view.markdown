@@ -3,7 +3,7 @@ layout: post
 title:  "How to map Equirectangular projection to Rectilinear projection"
 date:   2017-06-12 03:05:00
 author: Nitish S. Mutha
-categories: Equirectangular 360degree videos gnomonic
+categories: Equirectangular 360degree
 tags:	360degreevideos equirectangular gnomonic
 cover:  "/assets/posts/bgs/bg13.jpg"
 comments: true
